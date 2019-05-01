@@ -1,3 +1,4 @@
 #ignore target folder 
 /target
 KafkaConsumer.iml
+.idea
